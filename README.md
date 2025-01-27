@@ -5,6 +5,18 @@ This repository is designed to run code audits for our internal projects at Papa
 To perform an audit, go to **Actions -> Workflow "Parse selected codebase for LLM audits"** and run it on your repository to generate an audit for your project.
 
 An example audit for the [wm-worker-onboarding](https://github.com/papayaglobal/wm-worker-onboarding/) service can be seen [here](https://code-audits-papaya.vercel.app/repo/b51e8c35-64ab-4033-950f-8bc782cbddce).
+
+## More Audits (as of 2025-01-27)
+- wm-worker-onboarding: https://code-audits-papaya.vercel.app/repo/b51e8c35-64ab-4033-950f-8bc782cbddce
+- customer-portal: https://code-audits-papaya.vercel.app/repo/40a79f07-3b9b-4de6-bd58-a835953a8809/
+- wm-bank-details-monitoring: https://code-audits-papaya.vercel.app/repo/e684eaaf-6933-4a63-acf2-13b3fa6bf68b/
+- wm-worker-onboarding: https://code-audits-papaya.vercel.app/repo/b51e8c35-64ab-4033-950f-8bc782cbddce/
+- notification-center: https://code-audits-papaya.vercel.app/repo/37305f2b-a07a-4280-a395-7c2b38afbe71/
+- partner-place: https://code-audits-papaya.vercel.app/repo/0706566c-639a-4a9b-8271-e8c9441e6237/
+- payments-rule-engine: https://code-audits-papaya.vercel.app/repo/039257a1-63a9-4e8d-8cda-688df3868f2e/
+- payments-schema: https://code-audits-papaya.vercel.app/repo/db9114a9-e1d6-4e9d-9805-61cb8f083f89
+- payments-bank-details: https://code-audits-papaya.vercel.app/repo/3fc25fb2-ca23-44fc-8ad5-bbc72ca8f719
+- 
 # About the App
 
 The Code Audits app operates in two steps:
